@@ -23,6 +23,13 @@ function App() {
       <header className="App-header">
         <h1>La TodoList</h1>
         {listItems}
+        <h1>Ajouter un truc à la TodoList</h1>
+        <form method="post" action="http://127.0.0.1:3000/">
+          <div>
+            <label>Libelle</label>
+            <input type="text" name="libelle" value={items.libelle}></input>
+          </div>
+        </form>
       </header>
     </div>
   );

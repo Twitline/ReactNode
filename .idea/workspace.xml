@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c4e6300-61d7-4073-a1e1-167a0fc94c55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/models/thing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/38521354191_0f9b6016bc_b.417c8e5df6111de00bb7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/assets/38521354191_0f9b6016bc_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/main-es2015.bd44af9c4a4f085f43e6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/main-es2015.bd44af9c4a4f085f43e6.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/main-es5.bd44af9c4a4f085f43e6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/polyfills-es2015.94d3ba46aae3a65c2d88.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/polyfills-es2015.94d3ba46aae3a65c2d88.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/polyfills-es5-es2015.2b49def4071ac93e81dd.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/polyfills-es5.2b49def4071ac93e81dd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/runtime-es2015.cdfb0ddb511f65fdc0a0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/runtime-es5.cdfb0ddb511f65fdc0a0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/styles.b54780d340b0609c4662.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,7 +48,7 @@
       <updated>1671012174622</updated>
       <workItem from="1671012175786" duration="4706000" />
       <workItem from="1671089118059" duration="9015000" />
-      <workItem from="1671106515988" duration="6195000" />
+      <workItem from="1671106515988" duration="10292000" />
     </task>
     <servers />
   </component>
